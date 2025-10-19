@@ -98,7 +98,7 @@ Aplicación web para **consultar, filtrar y cotizar repuestos de motos** de form
      node scripts/generate-repuestos.js
 
 5. **Iniciar la aplicación web**	
-     npm run dev
+   - npm run dev
 
 6. **Abrir en el navegador**
    - App principal: http://localhost:5173
