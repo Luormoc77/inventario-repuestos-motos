@@ -89,27 +89,28 @@ Aplicación web para **consultar, filtrar y cotizar repuestos de motos** de form
    ```bash
    npm install
 
-4. **Instalar PocketBase(en una terminal aparte)
+3. **Instalar PocketBase(en una terminal aparte)
    ```bash
    # Linux/macOS
      ./pocketbase/pocketbase serve
    # Windows
      pocketbase\pocketbase.exe serve	
 
-6. **Generar los 2.000 repuestos (opcional, pero recomendado)**
+4. **Generar los 2.000 repuestos (opcional, pero recomendado)**
    ```bash
    node scripts/generate-repuestos.js
 
-8. **Iniciar la aplicación web**	
+5. **Iniciar la aplicación web**	
    ```bash
    npm run dev
 
-10. **Abrir en el navegador**
+6. **Abrir en el navegador**
    - App principal: http://localhost:5173
    - Cotización: http://localhost:5173/cotizacion
    - Panel de admin: http://127.0.0.1:8090/_/
    
-11. **📂 Estructura del proyecto**
+7. **📂 Estructura del proyecto**
+    
 1.   inventario-repuestos-motos/
 2.  ├── scripts/                  # Scripts de gestión de datos
 3.  │   ├── generate-repuestos.js # Genera 2000+ repuestos
