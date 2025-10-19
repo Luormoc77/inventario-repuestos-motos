@@ -90,16 +90,15 @@ Aplicación web para **consultar, filtrar y cotizar repuestos de motos** de form
 
 3. **Instalar PocketBase(en una terminal aparte)
    # Linux/macOS
-  ./pocketbase/pocketbase serve
-
-  # Windows
-  pocketbase\pocketbase.exe serve	
+     ./pocketbase/pocketbase serve
+   # Windows
+     pocketbase\pocketbase.exe serve	
 
 4. **Generar los 2.000 repuestos (opcional, pero recomendado)**
-   node scripts/generate-repuestos.js
+     node scripts/generate-repuestos.js
 
 5. **Iniciar la aplicación web**	
-   npm run dev
+     npm run dev
 
 6. **Abrir en el navegador**
    - App principal: http://localhost:5173
@@ -128,11 +127,11 @@ Aplicación web para **consultar, filtrar y cotizar repuestos de motos** de form
 18. └── README.md
 
 🎯 Objetivos cumplidos
-OBJETIVO					                                          ESTADO
--✅ Base de datos con 2.000+ registros          		         ✔️
--✅ Sistema de búsqueda con filtros			                     ✔️
--✅ Módulo de cotización automática			                     ✔️
--✅ Entrega funcional como ejercicio universitario		         ✔️
+OBJETIVO					                                             ESTADO
+- ✅ Base de datos con 2.000+ registros          		            ✔️
+- ✅ Sistema de búsqueda con filtros			                     ✔️
+- ✅ Módulo de cotización automática			                     ✔️
+- ✅ Entrega funcional como ejercicio universitario		         ✔️
 
 📚 Aprendizajes clave
 
