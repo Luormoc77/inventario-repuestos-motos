@@ -108,24 +108,24 @@ Aplicación web para **consultar, filtrar y cotizar repuestos de motos** de form
    
 7. **📂 Estructura del proyecto**
 
-1   inventario-repuestos-motos/
-2  ├── scripts/                  # Scripts de gestión de datos
-3  │   ├── generate-repuestos.js # Genera 2000+ repuestos
-4  │   └── clear-repuestos.js    # Limpia la base de datos
-5  ├── src/
-6  │   ├── routes/               # Páginas de la app
-7  │   │   ├── +page.js          # Configuración y carga de datos
-8  │   │   ├── +page.svelte      # Inventario principal
-9  │   │   └── cotizacion/       # Página de cotización
-10│   ├── lib/
-11│   │   └── stores/cart.js    # Carrito de cotización
-12│   └── components/           # Componentes reutilizables
-13├── pocketbase/               # Binario de PocketBase (Linux/Windows)
-14├── docs/                     # Capturas de pantalla
-15├── static/                   # Assets estáticos
-16├── .gitignore
-17├── package.json
-18└── README.md
+1.   inventario-repuestos-motos/
+2.  ├── scripts/                  # Scripts de gestión de datos
+3.  │   ├── generate-repuestos.js # Genera 2000+ repuestos
+4.  │   └── clear-repuestos.js    # Limpia la base de datos
+5.  ├── src/
+6.  │   ├── routes/               # Páginas de la app
+7.  │   │   ├── +page.js          # Configuración y carga de datos
+8.  │   │   ├── +page.svelte      # Inventario principal
+9.  │   │   └── cotizacion/       # Página de cotización
+10. │   ├── lib/
+11. │   │   └── stores/cart.js    # Carrito de cotización
+12. │   └── components/           # Componentes reutilizables
+13. ├── pocketbase/               # Binario de PocketBase (Linux/Windows)
+14. ├── docs/                     # Capturas de pantalla
+15. ├── static/                   # Assets estáticos
+16. ├── .gitignore
+17. ├── package.json
+18. └── README.md
 
 🎯 Objetivos cumplidos
 OBJETIVO					                                       ESTADO
@@ -136,11 +136,11 @@ OBJETIVO					                                       ESTADO
 
 📚 Aprendizajes clave
 
-Diseño de esquemas de base de datos realistas.
-Integración de SvelteKit con APIs externas (PocketBase).
-Gestión de estado global con stores de Svelte.
-Desarrollo frontend moderno con Tailwind CSS.
-Buenas prácticas: commits atómicos, documentación clara, .gitignore.
+- Diseño de esquemas de base de datos realistas.
+- Integración de SvelteKit con APIs externas (PocketBase).
+- Gestión de estado global con stores de Svelte.
+- Desarrollo frontend moderno con Tailwind CSS.
+- Buenas prácticas: commits atómicos, documentación clara, .gitignore.
 
 🙌 Autor
 
