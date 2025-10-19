@@ -102,9 +102,9 @@ Aplicación web para **consultar, filtrar y cotizar repuestos de motos** de form
    npm run dev
 
 6. **Abrir en el navegador**
-   App principal: http://localhost:5173
-   Cotización: http://localhost:5173/cotizacion
-   Panel de admin: http://127.0.0.1:8090/_/
+   - App principal: http://localhost:5173
+   - Cotización: http://localhost:5173/cotizacion
+   - Panel de admin: http://127.0.0.1:8090/_/
    
 7. **📂 Estructura del proyecto**
 
