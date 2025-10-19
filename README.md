@@ -86,7 +86,7 @@ Aplicación web para **consultar, filtrar y cotizar repuestos de motos** de form
    cd inventario-repuestos-motos
 
 2. **Instalar dependencias**
-   npm install
+    npm install
 
 3. **Instalar PocketBase(en una terminal aparte)
    # Linux/macOS
