@@ -128,11 +128,11 @@ Aplicación web para **consultar, filtrar y cotizar repuestos de motos** de form
 18. └── README.md
 
 🎯 Objetivos cumplidos
-OBJETIVO					                                       ESTADO
-✅ Base de datos con 2.000+ registros          		         ✔️
-✅ Sistema de búsqueda con filtros			                  ✔️
-✅ Módulo de cotización automática			                  ✔️
-✅ Entrega funcional como ejercicio universitario		      ✔️
+OBJETIVO					                                          ESTADO
+-✅ Base de datos con 2.000+ registros          		         ✔️
+-✅ Sistema de búsqueda con filtros			                     ✔️
+-✅ Módulo de cotización automática			                     ✔️
+-✅ Entrega funcional como ejercicio universitario		         ✔️
 
 📚 Aprendizajes clave
 
@@ -144,12 +144,12 @@ OBJETIVO					                                       ESTADO
 
 🙌 Autor
 
-Nombre: Luis Orlando Moreno Cruz
-Carrera: Tecnología Analisis y Desarrollo de Software ADSO
-Universidad: Servicio Nacional de Aprendizaje SENA
-GitHub: @Luormoc77
+- Nombre: Luis Orlando Moreno Cruz
+- Carrera: Tecnología Analisis y Desarrollo de Software ADSO
+- Universidad: Servicio Nacional de Aprendizaje SENA
+- GitHub: @Luormoc77
 
 📜 Licencia
 
-Este proyecto es de uso exclusivamente académico.
-No está permitido su uso comercial sin autorización previa.
+- Este proyecto es de uso exclusivamente académico.
+- No está permitido su uso comercial sin autorización previa.
